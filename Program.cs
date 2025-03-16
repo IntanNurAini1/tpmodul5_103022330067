@@ -1,4 +1,4 @@
-﻿//using System;
+//using System;
 
 //public class HaloGeneric
 //{
@@ -32,6 +32,7 @@ public class DataGeneric<T>
     public void PrintData()
     {
         Console.WriteLine($"Data yang tersimpan adalah: {data}");
+
     }
 }
 
